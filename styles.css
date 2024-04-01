@@ -1,6 +1,7 @@
 body{
   background-color:#FFF7FC;
   text-align: center;
+  justify-content: center;
   position: relative;
   top: 100px;
 }
